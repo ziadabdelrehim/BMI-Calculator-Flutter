@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "emulator.emulatorPath": "C:\\Users\\ziada\\.android\\avd"
+}
